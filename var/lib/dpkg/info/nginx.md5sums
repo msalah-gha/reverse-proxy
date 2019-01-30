@@ -1,0 +1,13 @@
+74dbd1b36897ae0cadaa962237dde552  lib/systemd/system/nginx-debug.service
+f18e6227110ede6b7a653c5e5635008e  lib/systemd/system/nginx.service
+8f3d6ce498ab897186e9773e89fa60d0  usr/sbin/nginx
+4f9a672477cc9161719197ef60ea0116  usr/sbin/nginx-debug
+822073aac709abe945d48bb20368b9ae  usr/share/doc/nginx/CHANGES.ru.gz
+6a35d7240f0011220c3ae328e9e0d5ec  usr/share/doc/nginx/README
+14284c4ad0552c3c12b6764955d8dadd  usr/share/doc/nginx/changelog.Debian.gz
+2349f1f3c1c1e452096d392992cd2e68  usr/share/doc/nginx/changelog.gz
+5f02a6a7717865d18efdcca480a6b4be  usr/share/doc/nginx/copyright
+fe27277515202de625c33654cdbbeae2  usr/share/lintian/overrides/nginx
+73e39b8a71b0ec656bad53e84a878730  usr/share/man/man8/nginx.8.gz
+f3b9f713c4d6f3355e25fb2be47d6ad1  usr/share/nginx/html/50x.html
+e3eb0a1df437f3f97a64aca5952c8ea0  usr/share/nginx/html/index.html
